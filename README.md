@@ -20,5 +20,8 @@ Created a visually appealing interface with dynamic visuals to enhance user enga
 Project Outcome:
 The WeatherNow app combines functionality and design to deliver a simple yet effective weather forecasting tool. It’s a great example of how web technologies and APIs can be used together to create dynamic, real-world applications.
 
+![image](https://github.com/user-attachments/assets/ab3f0ca4-e8d8-447a-91ff-c28c1f39b812)
+
+
 
 ![image](https://github.com/user-attachments/assets/88bc9ed2-12b1-4633-8edd-da944ee02c87)
